@@ -171,6 +171,10 @@ submodule = "extensions/zed"
 path = "extensions/dart"
 version = "0.0.3"
 
+[dbml]
+submodule = "extensions/dbml"
+version = "0.0.1"
+
 [denix]
 submodule = "extensions/denix"
 version = "0.0.6"
@@ -250,7 +254,7 @@ version = "1.1.0"
 
 [fortran]
 submodule = "extensions/fortran"
-version = "0.0.1"
+version = "0.0.2"
 
 [frosted-theme]
 submodule = "extensions/frosted-theme"
@@ -461,6 +465,10 @@ version = "0.0.1"
 submodule = "extensions/mau"
 version = "0.0.2"
 
+[melange]
+submodule = "extensions/melange"
+version = "0.0.1"
+
 [mellow]
 submodule = "extensions/mellow"
 version = "0.0.1"
@@ -585,6 +593,10 @@ version = "0.0.4"
 [oolong]
 submodule = "extensions/oolong"
 version = "0.0.2"
+
+[outrun]
+submodule = "extensions/outrun"
+version = "0.0.1"
 
 [pact]
 submodule = "extensions/pact"
@@ -924,7 +936,7 @@ version = "0.0.5"
 
 [xy-zed]
 submodule = "extensions/xy-zed"
-version = "0.1.0"
+version = "0.1.1"
 
 [zedokai]
 submodule = "extensions/zedokai"
